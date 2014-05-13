@@ -1,3 +1,3 @@
-#Ruby 7
+### More Ruby Exercises
 
-Ruby 7 exercises @MakersAcademy
+Exercises at [Makers Academy](http://www.makersacademy.com) to practice Ruby programming, Test Driven Development and Rspec. 
